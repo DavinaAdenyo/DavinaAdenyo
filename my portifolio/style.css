@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+}
+h1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    h2{
+        font-size: large;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    p{
+        font-size: medium;
+        font-style: italic;
+    }
+    section{
+        margin: 0%;
+    }
+    body{
+        text-align: left;
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;
+        background-color: burlywood;
+
+        
+    }
